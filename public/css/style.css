@@ -1,0 +1,11 @@
+#video-grid {
+  display: flex;
+  justify-content: center;
+}
+
+#video-grid video {
+  width: 300px;
+  object-fit: contain;
+  padding: 1rem;
+}
+/*# sourceMappingURL=style.css.map */
